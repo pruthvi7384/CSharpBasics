@@ -1,0 +1,7 @@
+D:\work\dot_net\c_sharp_learning\first_app\bin\Debug\first_app.exe.config
+D:\work\dot_net\c_sharp_learning\first_app\bin\Debug\first_app.exe
+D:\work\dot_net\c_sharp_learning\first_app\bin\Debug\first_app.pdb
+D:\work\dot_net\c_sharp_learning\first_app\obj\Debug\first_app.csproj.AssemblyReference.cache
+D:\work\dot_net\c_sharp_learning\first_app\obj\Debug\first_app.csproj.CoreCompileInputs.cache
+D:\work\dot_net\c_sharp_learning\first_app\obj\Debug\first_app.exe
+D:\work\dot_net\c_sharp_learning\first_app\obj\Debug\first_app.pdb
