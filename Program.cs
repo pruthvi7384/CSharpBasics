@@ -49,7 +49,10 @@ namespace first_app
 
             StringOperations stringOperations = new StringOperations();
             //stringOperations.stringOperations();
-            stringOperations.reverseString();
+            //stringOperations.reverseString();
+
+            List list = new List();
+            list.list();
 
         }
     }
