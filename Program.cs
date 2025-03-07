@@ -52,7 +52,17 @@ namespace first_app
             //stringOperations.reverseString();
 
             List list = new List();
-            list.list();
+            //list.list();
+
+            ArrayBasic array = new ArrayBasic();
+            //array.array();
+
+            Distionary_Basic distionary = new Distionary_Basic();
+            //distionary.distionary();
+
+            EvenOdd evenOdd = new EvenOdd();
+            //evenOdd.evenOdd();
+            evenOdd.multiplication();
 
         }
     }
